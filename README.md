@@ -1,5 +1,5 @@
 # Hotel-Management
-Created a simple application using Spring Initializer With required depencdencies that manages Hotel App of an organization i.e., An Admin can add users, view list of users, get complete details of a user by Id, Delete user and update user.
+Created a simple application using Spring Initializer With required depencdencies that manages Hotel App of an organization i.e., An Admin can add rooms, view list of rooms, get complete details of a room by Id, Delete room and update room.
 
 ## Frame Work And Language
 * Spring Boot
